@@ -1,26 +1,26 @@
 export const MenuList = [
     {
-      name: "Pepperoni Pizza",
-      price: 15.99,
+      name: "KTM Adventure",
+      price: 300000,
     },
     {
-      name: "Margherita Pizza",
-      price: 11.99,
+      name: "Yezdi Adventure",
+      price: 220000,
     },
     {
-      name: "PedroTech Special Pizza",
-      price: 256.53,
+      name: "BMW 310 GS",
+      price: 310000,
     },
     {
-      name: "Vegan Pizza",
-      price: 17.99,
+      name: "Himalayan",
+      price: 298000,
     },
     {
-      name: "Pineapple Pizza",
-      price: 4.99,
+      name: "Suzuki V-Strom 650",
+      price: 895000,
     },
     {
-      name: "Very Expensive Pizza",
-      price: 1997.99,
+      name: "Honda NX500.",
+      price: 590000,
     },
   ];
