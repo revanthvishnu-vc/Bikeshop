@@ -1,9 +1,9 @@
 import React from "react";
-import { MenuList } from "../../Components/MenuItem/MenuList.js";
-import MenuItem from "../../Components/MenuItem/MenuItem.js";
+import { MenuList } from "../../Components/MenuItem/MenuList.jsx";
+import MenuItem from "../../Components/MenuItem/MenuItem.jsx";
 import "./Menu.css";
 
-function Menu() {
+const Menu = () => {
   return (
     <div className="menu">
       <h1 className="menuTitle">Our Machines</h1>
@@ -21,6 +21,6 @@ function Menu() {
       </div>
     </div>
   );
-}
+};
 
 export default Menu;

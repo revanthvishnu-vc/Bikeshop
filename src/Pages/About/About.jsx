@@ -1,7 +1,8 @@
 import React from "react";
 import VintageBike from "../../Assets/about.jpeg";
 import "./About.css";
-function About() {
+
+const About = () => {
   return (
     <div className="about">
       <div
@@ -28,6 +29,6 @@ function About() {
       </div>
     </div>
   );
-}
+};
 
 export default About;

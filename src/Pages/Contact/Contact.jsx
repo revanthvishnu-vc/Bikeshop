@@ -2,7 +2,7 @@ import React from "react";
 import VintageBike from "../../Assets/about.jpeg";
 import "./Contact.css";
 
-function Contact() {
+const Contact = () => {
   return (
     <div className="contact">
       <div
@@ -29,6 +29,6 @@ function Contact() {
       </div>
     </div>
   );
-}
+};
 
 export default Contact;

@@ -26,6 +26,14 @@
   justify-content: center;
 }
 
+.rightSide hr {
+  border: none;
+  width: 80%;
+  height: 3px;
+  border-radius: 10px;
+  background: white;
+}
+
 .navbar a {
   color: white;
   text-decoration: none;
